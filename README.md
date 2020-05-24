@@ -42,4 +42,4 @@ Open up the terminal and type:
     conda activate nnfl_project // optional
     jupyter notebook
 
-Open up ''
+Open up 'CLSTM.ipynb' and set path of the corresponding dataset.

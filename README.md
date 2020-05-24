@@ -13,13 +13,13 @@ This project aims to detect anomalies in Web-Traffic using a C-LSTM architecture
 
 The model was tested on test data(Which is 30% of total data). The final test results for training the model for 500 epochs(as mentioned in the paper) are:
 
-- Accuracy - 
+- Accuracy - 0.93
 
-- Precision -
+- Precision -0.58
 
-- Recall -
+- Recall -0.71
 
-- F1-Score -
+- F1-Score -0.64
 
 ## Conclusions from the experiment
 

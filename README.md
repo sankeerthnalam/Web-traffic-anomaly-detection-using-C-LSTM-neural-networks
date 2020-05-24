@@ -9,6 +9,8 @@ This project aims to detect anomalies in Web-Traffic using a C-LSTM architecture
 
 - This repository contains code to implement the research paper which closely simulate those run by Tae-Young kim in the paper linked above.
 
+- This yahoo s5 dataset has been borrowed from this link https://github.com/harris0704/nbaData16-17/tree/master/Yahoo_S5_Data
+
 ---
 
 The model was tested on test data(Which is 30% of total data). The final test results for training the model for 500 epochs(as mentioned in the paper) are:

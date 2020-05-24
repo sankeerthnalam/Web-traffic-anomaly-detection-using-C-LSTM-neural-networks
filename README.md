@@ -36,8 +36,10 @@ The model was tested on test data(Which is 30% of total data). The final test re
 
 Open up the terminal and type:
 
-    git clone https://github.com/akashpalrecha/Lookahead.git
-    cd Lookahead
+    git clone https://github.com/sankeerthnalam/Web-traffic-anomaly-detection-using-C-LSTM-neural-networks.git
+    cd Web-traffic-anomaly-detection-using-C-LSTM-neural-networks
     conda env create -f environment.yml
     conda activate nnfl_project // optional
     jupyter notebook
+
+Open up ''

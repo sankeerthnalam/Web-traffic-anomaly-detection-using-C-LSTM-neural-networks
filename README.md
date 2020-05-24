@@ -17,9 +17,9 @@ The model was tested on test data(Which is 30% of total data). The final test re
 
 - Precision - 58.4%
 
-- Recall - 71.0%
+- Recall - 71.1%
 
-- F1-Score - 64.1%
+- F1-Score - 64.2%
 
 ## Conclusions from the experiment
 

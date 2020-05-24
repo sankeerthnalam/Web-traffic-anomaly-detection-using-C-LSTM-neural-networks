@@ -42,4 +42,6 @@ Open up the terminal and type:
     conda activate nnfl_project // optional
     jupyter notebook
 
-Open up 'CLSTM.ipynb' and set path of the corresponding dataset.
+Open up 'CLSTM.ipynb' and set path of the dataset directory to import all the files.
+
+You can keep track of training the model through 'accuracy' metrics and if you dont want that just comment the 'Metrics' in model.fit() method.
